@@ -1,0 +1,10 @@
+{ "FacebookAppId" : "",
+  "FacebookAppSecret" : "",
+  "GoogleClientId" : "",
+  "GoogleClientSecret" : "",
+  "TwitterConsumerKey" : "",
+  "TwitterConsumerSecret" : "",
+  "AppHost" : "",
+  "AppDomain" : "",
+  "SessionStoreKey" : "",
+}
